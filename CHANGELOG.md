@@ -1,3 +1,9 @@
+# v1.2.2
+
+Refactoring
+-----------
+commit [450d097]
+
 Chore
 -----
 commit [91784a4]
