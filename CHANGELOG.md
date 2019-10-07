@@ -1,3 +1,8 @@
+# v3.0.2
+
+**DOCS**
+commit [67d0784]
+
 # v3.0.1
 
 **REFACTOR**
