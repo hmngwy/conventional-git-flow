@@ -1,3 +1,8 @@
+# v3.0.0
+
+**BREAKING CHANGES**
+**refactor**: commit [b036ad6]
+
 # v2.0.0
 
 **BREAKING CHANGES**
