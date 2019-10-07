@@ -1,3 +1,9 @@
+# v2.0.0
+
+**BREAKING CHANGES**
+**refactor**: commit [43002e9]
+**fix**: commit [a33cbdf]
+
 # v1.2.2
 
 Refactoring
