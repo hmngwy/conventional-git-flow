@@ -1,3 +1,8 @@
+# v3.0.1
+
+**REFACTOR**
+commit [b70f415]
+
 # v3.0.0
 
 **BREAKING CHANGES**
