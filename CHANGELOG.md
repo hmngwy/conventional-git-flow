@@ -1,3 +1,9 @@
+Chore
+-----
+commit [91784a4]
+
+## v1.2.1 $
+
 Features
 --------
 test commit2 [607b3fc]
