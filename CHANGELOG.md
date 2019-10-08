@@ -1,3 +1,25 @@
+# v3.4.1
+
+**BUG FIXES**
+
+- yup [b012256]
+- **cli**: yup [5ceee2a]
+
+**CHORES**
+
+- yup [12b7ef2]
+
+# v3.4.1
+
+**BUG FIXES**
+
+- yup [b012256]
+- **cli**: yup [5ceee2a]
+
+**CHORES**
+
+- yup [12b7ef2]
+
 # v3.4.0
 
 **FEATURES**
