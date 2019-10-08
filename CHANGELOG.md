@@ -1,3 +1,10 @@
+# v3.0.4
+
+**BUG FIXES**
+
+commit 3 [a28a4a1]
+commit 2 [8351e90]
+
 # v3.0.3
 
 **CHORES**
