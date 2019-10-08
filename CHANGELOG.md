@@ -1,3 +1,15 @@
+# v3.3.0
+
+**FEATURES**
+
+test [042eee4]
+aasdasd [cf95c03]
+
+**BUG FIXES**
+
+testtest [a66beed]
+aasdasd [b1ce196]
+
 # v3.2.0
 
 **FEATURES**
