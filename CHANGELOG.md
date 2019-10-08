@@ -1,3 +1,9 @@
+# v3.2.0
+
+**FEATURES**
+
+aasdasd [7b3d239]
+
 # v3.1.0
 
 **FEATURES**
