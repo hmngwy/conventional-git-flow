@@ -1,3 +1,9 @@
+# v3.4.2
+
+**CHORES**
+
+- yup hmngwy@1d857725d531b103aa0392a3b7fd79122bf1c3f5
+
 # v3.4.1
 
 **BUG FIXES**
