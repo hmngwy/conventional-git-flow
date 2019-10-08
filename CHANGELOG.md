@@ -1,3 +1,10 @@
+# v3.0.11
+
+**BUG FIXES**
+
+commit 21234 [a07d7c1]
+commit 21234 [2199c2d]
+
 # v3.0.10
 
 **BUG FIXES**
