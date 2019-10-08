@@ -1,3 +1,15 @@
+# v3.0.12
+
+**BUG FIXES**
+
+commit 21234 [ec13c4e]
+
+# v3.0.12
+
+**BUG FIXES**
+
+commit 21234 [ec13c4e]
+
 # v3.0.11
 
 **BUG FIXES**
