@@ -4,6 +4,12 @@
 
 commit 21234 [a803794]
 
+# v3.0.10
+
+**BUG FIXES**
+
+commit 21234 [a803794]
+
 # v3.0.9
 
 **BUG FIXES**
