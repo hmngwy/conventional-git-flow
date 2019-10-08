@@ -1,5 +1,17 @@
 # v3.4.3
 
+2019-10-08T16:59:15Z
+
+**BUG FIXES**
+
+- yup → hmngwy@5c4114e
+
+**CHORES**
+
+- yup → hmngwy@68542bb
+
+# v3.4.3
+
 2019-10-08T16:58:59Z
 
 **BUG FIXES**
