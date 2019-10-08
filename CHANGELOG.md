@@ -1,3 +1,11 @@
+# v3.0.3
+
+**CHORES**
+commit 2 [8f6521c]
+
+**DOCS**
+commit [1d6de46]
+
 # v3.0.2
 
 **DOCS**
