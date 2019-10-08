@@ -1,3 +1,16 @@
+# v3.4.4
+
+2019-10-08T17:04:54Z
+
+
+**BUG FIXES**
+
+- yup → hmngwy@e042edb
+
+**CHORES**
+
+- yes: yup → hmngwy@30528e5
+
 # v3.4.3
 
 2019-10-08T16:59:15Z
