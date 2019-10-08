@@ -1,3 +1,16 @@
+# v3.4.0
+
+**FEATURES**
+
+test [562c41e]
+test [7d6963b]
+test [e2d3061]
+
+**CHORES**
+
+test [62274da]
+test [d9a8c55]
+
 # v3.3.0
 
 **FEATURES**
