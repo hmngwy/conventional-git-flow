@@ -1,3 +1,9 @@
+# v3.0.9
+
+**BUG FIXES**
+
+commit 21234 [32ff385]
+
 # v3.0.8
 
 **BUG FIXES**
