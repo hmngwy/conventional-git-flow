@@ -1,3 +1,10 @@
+# v3.0.5
+
+**BUG FIXES**
+
+commit 3 [a136f03]
+commit 3 [f44293d]
+
 # v3.0.4
 
 **BUG FIXES**
